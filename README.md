@@ -1,4 +1,8 @@
 <img width="794" height="176" alt="Deeper logo" src="https://github.com/user-attachments/assets/ef16fba9-abc6-4e0d-871d-1ab41626155c" />\
+# DISCLAIMER
+This project is for research and preservation only.
+# This project is entirely vibecoded.
+This is not one of those crappy vibecoded projects. This is a good one. I make proper use of AI, and because of that, my vibecoded projects are good.
 # What this is
 Deeper is an unfinished mock server for Deezer 3.x for Android.
 # How to set it up
