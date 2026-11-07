@@ -1,0 +1,1 @@
+Each "cover" here must be named like this: (ALB_PICTURE).jpg
