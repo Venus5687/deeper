@@ -5,6 +5,8 @@ This project is for research and preservation only.
 This is not one of those crappy vibecoded projects. This is a good one. I make proper use of AI, and because of that, my vibecoded projects are good.
 # What this is
 Deeper is an unfinished mock server for Deezer 3.x for Android.
+# Prerequisites
+Python, Flask and pycryptodome.
 # How to set it up
 1. Connect your Android device to Charles Proxy.
 2. Install the patched Deezer APK in /apks to your Android device but do not open it yet.
