@@ -1,5 +1,4 @@
-<img width="794" height="176" alt="Deeper logo" src="https://github.com/user-attachments/assets/ef16fba9-abc6-4e0d-871d-1ab41626155c" />
-\
+<img width="794" height="176" alt="Deeper logo" src="https://github.com/user-attachments/assets/ef16fba9-abc6-4e0d-871d-1ab41626155c" />\
 # What this is
 Deeper is an unfinished mock server for Deezer 3.x for Android.
 # How to set it up
